@@ -3,7 +3,7 @@
 
 
 #include <QMainWindow>
-#include "tset.h"
+#include "set.h"
 
 QT_BEGIN_NAMESPACE
 namespace Ui { class MainWindow; }
